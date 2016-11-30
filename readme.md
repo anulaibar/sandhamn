@@ -1,5 +1,7 @@
 # Sandhamn
 
+Slideshow from Sandhamn
+
 ## Run
 
 `npm run dev`
